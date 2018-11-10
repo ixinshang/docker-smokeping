@@ -152,11 +152,11 @@ menu = OpenDNS2
 title = OpenDNS2
 host = 208.67.220.220
 
-+ China_CT
-menu = China_CT
-title = China_CT
++ China_CNC
+menu = China_CNC
+title = China_CNC
 
-+ SiChuan_CT_DNS
-menu = SiChuan_CT_DNS
-title = SiChuan_CT_DNS
-host = 61.139.2.69
++ SiChuan_CNC_DNS
+menu = SiChuan_CNC_DNS
+title = SiChuan_CNC_DNS
+host = 119.6.6.6
