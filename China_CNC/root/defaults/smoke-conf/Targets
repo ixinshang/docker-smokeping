@@ -160,3 +160,8 @@ title = China_CNC
 menu = SiChuan_CNC_DNS
 title = SiChuan_CNC_DNS
 host = 119.6.6.6
+
++ 114_Publish_DNS
+menu = 114_Publish_DNS
+title = 114_Publish_DNS
+host = 114.114.114.114
